@@ -1,0 +1,6 @@
+{
+  "name": "VestuAI",
+  "description": "Multi-tenant SaaS & E-commerce Platform with AI image/text generation and WhatsApp checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
